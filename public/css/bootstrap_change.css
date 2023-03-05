@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(0deg, #000 0%, #fff 100%);
+}
+.navbar-brand{
+    color: white;
+    transition: 0.5s;
+    text-align: center;
+}
+.navbar-brand:hover{
+    color: white;
+    transform: scale(1.1);
+}
+.navbar-brand:visited{
+    color: white;
+}
+.navbar-brand:active{
+    color: white;
+}
+
+.nav-link{
+    color: #b0b0b0;
+    transition: 0.5s;
+    text-align: center;
+}
+.nav-link:hover{
+    color: white;
+    transform: scale(1.1);
+}
+.nav-link:visited{
+    color: white;
+}
+.nav-link:active{
+    color: white;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+
+.navbar-toggler{
+    background-color: white;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+
+.card-body{
+    text-align: center;
+}
+.card-text{
+    text-align: left;
+}
